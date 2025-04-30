@@ -52,6 +52,12 @@ p {
   border-radius: 50%;
   object-fit: cover;
 }
+.color1 .imgfoot {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  object-fit: cover;
+}
 
 /* Contenedor de tarjetas */
 .contenedor2 {
@@ -171,6 +177,7 @@ ul {
   border-radius: 10px;
   object-fit: cover;
 }
+
 
 .modal {
   position: fixed;
